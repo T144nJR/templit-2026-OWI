@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-/* background style */
+/* ------ background style ------ */
 .BG-1{
     background-image: url("/assets/img/homeHeader.png");
     background-size: cover;
@@ -25,13 +25,13 @@
     background-color: #FFFFFF;
     height: 200px;
 }
-/* index nav (menu) */
+/* ------ index nav (menu) ------ */
 .logo{
     width: 250px;
     height: auto;
     margin: 10px;
 }
-/* nav pont */
+/* ------ nav pont ------ */
 .index-menu{
 width: 80%;
 height: 75px;
@@ -65,7 +65,7 @@ z-index: 1;
 .menu li a:hover{
     color: aqua;
 }
-/* search bar */
+/* ------ search bar ------ */
 .search{
     display: flex;
     align-items: center;
